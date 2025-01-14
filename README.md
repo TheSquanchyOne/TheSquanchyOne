@@ -16,7 +16,8 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <h2>🔒 Cybersecurity Projects</h2>
-  - [Simple Script that uses a password file to attempt to brute force an SSH connection]()
+- <b>Python Scripts for peforming security tasks</b>
+  - [Simple Script that uses a password file to attempt to brute force an SSH connection](https://github.com/TheSquanchyOne/ssh-brute-force-script)
  
 
 
