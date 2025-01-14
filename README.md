@@ -16,7 +16,7 @@
 
 
 
-<h2>Go Jackets! :bee: </h2>
+<h2 align="center"> 🐝 Go Jackets! 🐝 </h2>
 
 <h2> 🤳 Connect with me:</h2>
 
