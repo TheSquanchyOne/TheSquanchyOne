@@ -7,8 +7,10 @@
   
 - <b>Java Script Projects</b>
    
-- <h2>🔒 Cybersecurity Projects</h2>
+<h2>🔒 Cybersecurity Projects</h2>
+
 - <b>Python Scripts for peforming security tasks</b>
+
   - [Simple Script that uses a password file to attempt to brute force an SSH connection](https://github.com/TheSquanchyOne/ssh-brute-force-script)
   - [Simple Script that uses a password file to determine the value of a SHA256 hashed password](https://github.com/TheSquanchyOne/SHA256-Password-Cracking-Script)
  
