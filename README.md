@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matt! <br/><a href="https://www.linkedin.com/in/matthewcpowell/">Cybersecurity Professional</a> and <a href="https://github.com/TheSquanchyOne">Programmer</a>
+<h1 align="center">Hi, I'm Matt! <br/><a href="https://www.linkedin.com/in/matthewcpowell/">Cybersecurity Professional</a> and <a href="https://github.com/TheSquanchyOne">Programmer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
