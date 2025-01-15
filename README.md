@@ -13,6 +13,7 @@
 
   - [Simple Script that uses a password file to attempt to brute force an SSH connection](https://github.com/TheSquanchyOne/ssh-brute-force-script)
   - [Simple Script that uses a password file to determine the value of a SHA256 hashed password](https://github.com/TheSquanchyOne/SHA256-Password-Cracking-Script)
+  - [Port Scanner written in Python that will scan a single target for open ports](https://github.com/TheSquanchyOne/Python_Port_Scanner)
  
 
 
